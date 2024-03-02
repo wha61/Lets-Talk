@@ -3,7 +3,8 @@ A chatroom with many features built in C implemented with multithreading concept
 
 ## How to run
 The general format is:
-./lets-talk [my port number] [remote/local machine IP] [remote/local port number]
+
+    ./lets-talk [my port number] [remote/local machine IP] [remote/local port number]
 
 
 ## Sample output
