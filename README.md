@@ -1,6 +1,11 @@
 # Lets-Talk
 A chatroom with many features built in C implemented with multithreading concepts and UDP. This chatroom enables a user at one terminal to communicate with a user at another terminal
 
+## How to run
+The general format is:
+./lets-talk [my port number] [remote/local machine IP] [remote/local port number]
+
+
 ## Sample output
 
 The user at terminal 1:
